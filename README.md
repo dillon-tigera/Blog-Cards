@@ -1,1 +1,1 @@
-![Flip Cards Demo](./assets/cards.gif)
+![Flip Cards Demo](./Assets/cards.gif)
